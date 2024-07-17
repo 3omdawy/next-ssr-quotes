@@ -1,4 +1,15 @@
-import Image from "next/image";
+import Link from "next/link";
+
+export default function Home() {
+  return (
+    <>
+      <h1>Welcome to our quotes</h1>
+      <Link href="/quotes">View quotes 🤔</Link>
+    </>
+  )
+}
+
+/*import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
@@ -93,3 +104,4 @@ export default function Home() {
     </main>
   );
 }
+*/
