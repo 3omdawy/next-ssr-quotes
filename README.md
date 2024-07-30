@@ -1,5 +1,5 @@
 # SSR with Next.js
-Adapted from [this tutorial]([https://www.youtube.com/watch?v=IZGNcSuwBZs](https://www.bairesdev.com/blog/server-side-rendering-react/)), this is a simple example for Server-Side Rendering using Next.js (through the API `getServerSideProps` to render the quotes list on the server)
+Adapted from [this tutorial](https://www.youtube.com/watch?v=IZGNcSuwBZs), this is a simple example for Server-Side Rendering using Next.js (through the API `getServerSideProps` to render the quotes list on the server)
 
 ## About SSR
 Based also on [this great article]([https://www.joshwcomeau.com/react/server-components/]), these are the main topics with SSR
